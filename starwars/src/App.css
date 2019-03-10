@@ -4,8 +4,14 @@
   flex-direction: column;
 }
 .Header {
-  font-size: 48px;
-  color: #443e3e;
-  text-shadow: 1px 1px 5px #fff;
+  margin: 10px;
 }
+
+h1 {
+  font-weight: bold;
+  font-size: 48px;
+  color: #F0D50B;
+  text-shadow: 1px 1px 5px gray;
+}
+
 /* write your parent styles in here for your App.js */
